@@ -18,6 +18,7 @@
 
 Back-end:
 > Desenvolvido usando: Express.JS, MySql2, Joi, Chai, Mocha
+<br />
 > Testes: Chai, Mocha, Jest
 
 #Informações importantes sobre o projeto
