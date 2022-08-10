@@ -1,6 +1,6 @@
 # Store Manager
 
-<details>
+
   #Contexto
 
   Minha primeira API utilizando a arquitetura MSC baseado no Diagrama Entidade-Relacionamento (DER) !
@@ -12,7 +12,6 @@
   Feito utilizando docker para ambiente de desenvolvimento.
 
   <br />
-</details>
 
 ## Tecnologias usadas
 
