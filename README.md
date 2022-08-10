@@ -14,7 +14,7 @@
 ## Tecnologias usadas
 
 Back-end:
-> Desenvolvido usando: Express.JS, MySql2, <br> Testes: Chai, Mocha, Jest
+> Desenvolvido usando: Express.JS, MySql2, NodeJS, Docker <br> Testes: Chai, Mocha, Jest
 
 <br />
 
