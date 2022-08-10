@@ -18,7 +18,7 @@ Back-end:
 
 <br />
 
-#Informações importantes sobre o projeto
+## Informações importantes sobre o projeto
 
   - A pessoa usuária, independente de cadastro, consegue:
     - Adicionar, ler, deletar e atualizar produtos;
