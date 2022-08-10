@@ -1,7 +1,7 @@
 # Store Manager
 
 <details>
-  <summary><strong>Contexto</strong></summary>
+  #Contexto
 
   Minha primeira API utilizando a arquitetura MSC baseado no Diagrama Entidade-Relacionamento (DER) !
 
@@ -17,10 +17,9 @@
 ## Tecnologias usadas
 
 Back-end:
-> Desenvolvido usando: Express.JS, MySql2, Joi, Chai, Mocha
+> Desenvolvido usando: Express.JS, MySql2, Joi, Chai, Mocha <br> Testes: Chai, Mocha, Jest
 > Testes: Chai, Mocha, Jest
 <br />
-> Testes: Chai, Mocha, Jest
 
 #Informações importantes sobre o projeto
 
