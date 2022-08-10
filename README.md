@@ -1,8 +1,6 @@
 # Store Manager
 
 
-  #Contexto
-
   Minha primeira API utilizando a arquitetura MSC baseado no Diagrama Entidade-Relacionamento (DER) !
 
   Diagrama está em ./public/erStoreManager.png
